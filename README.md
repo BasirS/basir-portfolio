@@ -37,7 +37,7 @@ This interactive portfolio website showcases my journey from passionate healthca
 **💼 Professional Journey**
 - **Current:** Data Science Analyst at Care.com
 - **Fellowships:** Cornell Tech AI Fellow, IAC Fellow
-- **Education:** Statistics & Quantitative Modeling (3.69 GPA) at Baruch College
+- **Education:** Statistics & Quantitative Modeling at Baruch College
 - **Recognition:** Phi Eta Sigma National Honor Society, Dean's List, Multiple leadership roles
 
 ---
@@ -179,8 +179,7 @@ I'm always open to collaborations in healthcare analytics, data science projects
 ### **🎓 Academic Affiliation**
 - **Bernard M. Baruch College, Zicklin School of Business**
 - **Major:** Statistics & Quantitative Modeling (Data Science)
-- **Minors:** Natural Sciences (Biology, Chemistry) and Computer Science
-- **GPA:** 3.69 | **Major GPA:** 3.78
+- **Minors:** Natural Sciences (Biology, Chemistry)
 
 ---
 
