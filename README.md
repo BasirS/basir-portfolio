@@ -199,10 +199,6 @@ I'm always open to collaborations in healthcare analytics, data science projects
 - **Leadership:** Team management, mentoring, cross-functional collaboration
 - **Communication:** Technical writing, presentation skills, multilingual abilities
 
-### **🌍 Languages**
-- **Native/Bilingual:** English, Hindi, Urdu
-- **Reading/Writing:** Arabic, French
-
 ---
 
 ## 📄 License
