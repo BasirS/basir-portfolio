@@ -209,28 +209,6 @@ I'm always open to collaborations in healthcare analytics, data science projects
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### **📝 Usage & Attribution**
-- Feel free to view, learn from, and fork this portfolio
-- If you use this as inspiration for your own portfolio, attribution is appreciated
-- The code is open source, but the content and personal information are specific to Basir Abdul Samad
-
----
-
-## 🚀 Future Enhancements
-
-### **📈 Planned Improvements**
-- **Blog Section** for data science insights and tutorials
-- **Interactive Data Visualizations** embedded in project showcases
-- **Case Study Deep Dives** with methodology and results
-- **Resource Sharing** section for aspiring data scientists
-- **Dark Mode Toggle** for enhanced user experience
-
-### **🔧 Technical Roadmap**
-- **Performance Optimization** with lazy loading and image compression
-- **SEO Enhancement** with meta tags and structured data
-- **Analytics Integration** for visitor insights
-- **Progressive Web App** features for mobile experience
-
 ---
 
 <div align="center">
